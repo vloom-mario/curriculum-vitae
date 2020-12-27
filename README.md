@@ -1,6 +1,6 @@
 # curriculum-vitae
 ## INDEX
--   [Summary](https://github.com//curriculum-vitae#Summary)
+-   [Summary](https://github.com/vloom-mario/curriculum-vitae#summary)
 -   [Education](https://github.com/vloom-mario/curriculum-vitae#Education)
 -   [Work-Experience](https://github.com/vloom-mario/curriculum-vitae#Work-Experience)
 -   [Skill-Set](https://github.com/vloom-mario/curriculum-vitae#Skill-Set)
