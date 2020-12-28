@@ -87,7 +87,7 @@
     -   主にBigQueryのStandard SQLを利用
     -   スキル
         -   GIS関数に強み
-        -   テラバイト以上（数百億県件以上）の分析用クエリ、アプリケーション用クエリ、およびチューニング
+        -   テラバイト以上（数百億件以上）の分析用クエリ、アプリケーション用クエリ、およびチューニング
         -   Scheduled Query
         -   BigQuery Script
         -   BigQuery ML（主にXGBoostとk-means）
