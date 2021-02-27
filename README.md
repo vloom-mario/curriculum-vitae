@@ -7,7 +7,7 @@
 -   [Achivement](https://github.com/vloom-mario/curriculum-vitae#Achivement)
 
 ## Summary
-- 機械設計エンジニア３年 -> 経営企画１年 -> データサイエンティスト3年
+- GPGPUサイエンティスト２年 -> 機械設計エンジニア３年 -> 経営戦略１年 -> データサイエンティスト3年
 -   [ **フルスタックデータエンジニアリング** ] 
     -   インフラ：クラウドベースのデータ分析基盤の構築が可能です。
     -   データ処理：収集 -> 前処理 -> モデル構築 -> 評価・チューニング -> レポーティングの首尾一貫した開発経験が豊富にあります。
@@ -90,7 +90,7 @@
         -   テラバイト以上（数百億件以上）の分析用クエリ、アプリケーション用クエリ、およびチューニング
         -   Scheduled Query
         -   BigQuery Script
-        -   BigQuery ML（主にXGBoostとk-means）
+        -   BigQuery ML（主にXGBoost, k-means, ARIMA）
         -   Transfer Service（通常はShellによるバッチを使う）
         -   BigQuery Engine（DataPortal）
         -   shellコマンドからのデータ操作
