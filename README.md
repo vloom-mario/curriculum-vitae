@@ -61,7 +61,13 @@
     -   自身のスキルの幅と質を高めるため、現職の傍らで個人事業主としての複業をスタート。
     -   主にデータ分析、AI開発、ダッシュボード開発、ITコンサルティング、プログラミングメンターなど。
 
-
+## Award & Seminar
+- Oct. 2012 [受賞：RACE優秀賞（研究論文）](http://race.t.u-tokyo.ac.jp/)
+- 2013 [受賞：グッドデザイン金賞](https://www.g-mark.org/award/describe/40146)
+- Apr. 2019 [講演：ジオ展 2019](https://www.geoten.org/2019)
+- Jun. 2019 [講演：APPS JAPAN 2019](https://www.f2ff.jp/apps-japan/2019/)
+- Nov. 2020 [講演：ジオ展 2020](https://www.geoten.org/2020)
+- May 2021 [講演：Google Cloud Day: Digital ’21](https://cloudonair.withgoogle.com/events/google-cloud-day-digital-21?talk=d2-da-04)
 
 ## Skill-Set
 
@@ -82,11 +88,15 @@
              etc.
 
 -   **Python**
-    -   R 言語で対応しきれない、開発がしづらい領域で利用 (Rにないパッケージの利用、ディープラーニング や Web アプリケーション等）
-    -   2020年12月現在ではPythonへの移行が進行中
+    - ビッグデータ分析
+    - 機械学習モデルの構築（PyTorch, TensorFlow, Scikit-learn等）
+    - 位置情報データの扱い（GIS関数、Leaflet、deck.gl等）
+    - Beautiful Soup, Selenium を利用したスクレイピング
+    - 並列処理（multiprocessing）
+    - Docker コンテナ化
 
 -   **SQL**
-    -   主にBigQueryのStandard SQLを利用
+    -   主に BigQuery Standard SQL を利用
     -   スキル
         -   GIS関数に強み
         -   テラバイト以上（数百億件以上）の分析用クエリ、アプリケーション用クエリ、およびチューニング
@@ -125,7 +135,7 @@
 ### クラウド基盤
 
 -   **Google Clooud Platform**
-    -   権限
+    -   権限管理
         -   組織管理者としてのIAM管理
         -   サービスアカウントによる権限設定
         -   カスタムロール作成
@@ -140,14 +150,14 @@
         -   クライアントへのデータ転送設定
     -   Dataprep
         -   ETLツールとしてのデータ処理パイプラインの構築
-    -   AI Platform
-        -   Jupyter lab構築
+    -   Vertex AI
+        -   Workbench 構築
         -   予測モデルのデプロイパイプライン構築
     -   AppEngine
         -   Webアプリケーションのローンチ
     -   Cloud Function/Cloud Run
-        -   VMインスタンスの自動起動/停止
-        -   Airflowによるオペレーション監視
+        - Fan-out 構成の開発
+        - Airflowによるオペレーション監視
 
 -   **Microsoft Azure**
     -   Virtual Machine
@@ -157,6 +167,8 @@
         -   予測・最適化モデルの構築
     -   blob storage
         -   データの保存、コピー、削除等
+    - Azure SQL
+    - Synapse Analytics
 
 
 -   **Amazon Web Service**
@@ -179,11 +191,11 @@
   - Tableau Server管理
   - R script連携
   - ビルドイン時系列予測
-- **Kepler.gl**
+- **Kepler.gl & deck.gl **
   - 商用分析レポートレベル
 - **OmniSci Immerse**
   - 商用分析レポートレベル
-- **Dataportal**
+- **Looker Studio**
   - 非商用（社内用、個人利用等）レベル
 - **QlikView**
   - 商用プロダクト運用レベル（スケジューリング、簡易な修正等）
@@ -199,7 +211,7 @@
 
 -   **IDE/Editor**
     -   R: R studio, Jupyter Notebook
-    -   Python: PyCharm, Jupyter Notebook
+    -   Python: Data Spell, PyCharm, Hex, Jupyter Lab
     -   その他: VS Code, DataGrip, EmEditor, Notion
     -   GitLab, Github を使ったソース管理
 
@@ -238,6 +250,7 @@
 【業務内容】
 - 機械学習アルゴリズムと消費者のオンライン嗜好性データに基づいたマッチングサービスの開発において、アピールポイントやブラッシュアップすべきポイント、運用体制などを支援
 - ECサイトにおけるディープラーニング活用の事例調査とサービス開発のブレスト
+- 金融市場向けのデータ活用
 
 ### メンター
 - R, SQL等のコーディングアドバイザー（MENTAを利用）
